@@ -1,0 +1,23 @@
+.boton-social {
+  background-color: #fff;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  border: 1px solid #dee2e6;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  color: #212529;
+}
+
+.boton-social:hover {
+  background-color: #f8f9fa;
+}
+
+.icono-google {
+  width: 28px;
+  height: 28px;
+}
